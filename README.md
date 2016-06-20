@@ -1,4 +1,6 @@
-*Changing the xrandr params*
+#### Changing the xrandr params
+=========
+
 
 * check the params for requested resolution
 	$ cvt 1024 768
